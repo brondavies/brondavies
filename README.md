@@ -1,16 +1,24 @@
-### Hi there 👋
+## ⭐ Bron Davies
 
-<!--
-**brondavies/brondavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over 20 years of software development experience in a wide variety of environments.
 
-Here are some ideas to get you started:
+[![Bron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brondavies&show_icons=true&count_private=true)](https://github.com/brondavies)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brondavies&layout=compact)](https://github.com/brondavies)
+
+## 💼 Job
+
+Owner and Chief Technologist at [Brontech, LLC.](https://brontech.com/)
+
+## 👷🏻‍♂️ I'm currently working on
+
+- fumbl.ai
+- wordgames.ai
+- touchpointsoftware.com
+- Art, music and family pursuits!
+
+## 📬 How to reach me
+
+[Twitter](https://twitter.com/brondavies)
+<br/>
+[Linkedin](https://www.linkedin.com/in/brond)
