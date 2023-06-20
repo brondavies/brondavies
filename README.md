@@ -15,6 +15,7 @@ Owner and Chief Technologist at [Brontech, LLC.](https://brontech.com/)
 - fumbl.ai
 - wordgames.ai
 - touchpointsoftware.com
+- beakn.com
 - Art, music and family pursuits!
 
 ## 📬 How to reach me
