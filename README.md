@@ -2,23 +2,14 @@
 
 Over 20 years of software development experience in a wide variety of environments.
 
-[![Bron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brondavies&show_icons=true&count_private=true)](https://github.com/brondavies)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brondavies&layout=compact)](https://github.com/brondavies)
+[![Bron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brondavies&show_icons=true&count_private=true&hide_rank=true)](https://github.com/brondavies) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brondavies&layout=compact)](https://github.com/brondavies)
 
 ## 🏆 Top Repos
 
-👨🏻‍💻 [FileTypeTranslator](https://github.com/brondavies/filetypetranslator)<br>
-Helper functions for your .Net, Python, JavaScript, and Java projects to get mime types and general file category
-
-👨🏻‍💻 [cdn](https://github.com/brondavies/cdn)<br>
-A utility for easing the pain of putting files on a CDN and how to link to them
-
-👨🏻‍💻 [jira-github-sync](https://github.com/brondavies/jira-github-sync)<br>
-A .NET Core command-line utility to keep your Jira issues automatically linked with the related PRs on Github
-
-👨🏻‍💻 [ghe-chrome-extension](https://github.com/brondavies/ghe-chrome-extension)<br>
-A Chrome extension for Github Enterprise - originally created for American Airlines to show user names instead of IDs
+[![FileTypeTranslator](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=filetypetranslator)](https://github.com/brondavies/filetypetranslator)
+[![cdn](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=cdn)](https://github.com/brondavies/cdn)
+[![jira-github-sync](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=jira-github-sync)](https://github.com/brondavies/jira-github-sync)
+[![ghe-chrome-extension](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=ghe-chrome-extension)](https://github.com/brondavies/ghe-chrome-extension)
 
 ## 💼 Job
 
