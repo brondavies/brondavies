@@ -7,9 +7,9 @@ Over 20 years of software development experience in a wide variety of environmen
 ## 🏆 Top Repos
 
 [![FileTypeTranslator](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=filetypetranslator)](https://github.com/brondavies/filetypetranslator)
+[![TrayToolbar](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=TrayToolbar)](https://github.com/brondavies/TrayToolbar)
 [![cdn](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=cdn)](https://github.com/brondavies/cdn)
 [![jira-github-sync](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=jira-github-sync)](https://github.com/brondavies/jira-github-sync)
-[![ghe-chrome-extension](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=ghe-chrome-extension)](https://github.com/brondavies/ghe-chrome-extension)
 
 ## 💼 Job
 
