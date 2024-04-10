@@ -2,14 +2,14 @@
 
 Over 20 years of software development experience in a wide variety of environments.
 
-[![Bron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brondavies&show_icons=true&count_private=true&hide_rank=true)](https://github.com/brondavies) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brondavies&layout=compact)](https://github.com/brondavies)
+[![Bron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brondavies&show_icons=true&count_private=true&hide_rank=true&theme=transparent)](https://github.com/brondavies) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brondavies&layout=compact&theme=transparent)](https://github.com/brondavies)
 
 ## 🏆 Top Repos
 
-[![FileTypeTranslator](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=filetypetranslator)](https://github.com/brondavies/filetypetranslator)
-[![TrayToolbar](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=TrayToolbar)](https://github.com/brondavies/TrayToolbar)
-[![cdn](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=cdn)](https://github.com/brondavies/cdn)
-[![jira-github-sync](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=jira-github-sync)](https://github.com/brondavies/jira-github-sync)
+[![FileTypeTranslator](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=filetypetranslator&theme=transparent)](https://github.com/brondavies/filetypetranslator)
+[![TrayToolbar](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=TrayToolbar&theme=transparent)](https://github.com/brondavies/TrayToolbar)
+[![cdn](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=cdn&theme=transparent)](https://github.com/brondavies/cdn)
+[![jira-github-sync](https://github-readme-stats.vercel.app/api/pin/?username=brondavies&repo=jira-github-sync&theme=transparent)](https://github.com/brondavies/jira-github-sync)
 
 ## 💼 Job
 
