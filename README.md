@@ -22,6 +22,6 @@ Owner and Chief Technologist at [Brontech, LLC.](https://brontech.com/)
 
 ## 📬 How to reach me
 
-[Brontech](https://brontech.com)
-<br/>
-[Linkedin](https://www.linkedin.com/in/brond)
+  [Linkedin](https://www.linkedin.com/in/brond/)
+  
+  [Brontech](https://brontech.com/contact)
